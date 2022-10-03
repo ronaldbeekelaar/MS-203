@@ -11,9 +11,10 @@ filter, and a spam filter.
 **Note**: In this lab exercise, you will use the **Office 365 Security and
 Compliance center** to create hygiene filters. Protection services no longer
 reside in the EAC for Exchange Online, and instead have been moved to the
-Security and Compliance center.
+Security and Compliance center. 
 
-## Task 1 - Create a Malware Filter
+
+## Task 1 - Create a Malware Filters
 
 In this task, you will create a malware filter that checks for attachments that
 have a specific file type that indicate a possible malware attachment. If an
